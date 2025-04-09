@@ -9,3 +9,8 @@ UniOneEdu 数据集涵盖313 页手写理工科笔记、288 页扫描文档、41
 此外，UniOneEdu数据集及相关模型、权重文件全开源，希望借助能够促进该领域的进一步发展。
 
 计划2025年5月全量开放数据集及模型权重文件！
+
+
+![result_DocLayout-YOLO](https://github.com/user-attachments/assets/901b02bd-2b2f-4a07-84dd-4c8d40a0f7b8)
+![result_DocLayout-YOLOa](https://github.com/user-attachments/assets/a54d5cc1-fd21-4f6f-abf7-2352883796e5)
+![result_TextD_YOLOv8](https://github.com/user-attachments/assets/09bb2720-f7d1-49eb-b59b-d5d70b707981)
